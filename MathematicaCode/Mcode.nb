@@ -10,21 +10,20 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     13801,        395]
-NotebookOptionsPosition[     12530,        363]
-NotebookOutlinePosition[     12923,        379]
-CellTagsIndexPosition[     12880,        376]
+NotebookDataLength[     13835,        394]
+NotebookOptionsPosition[     12564,        362]
+NotebookOutlinePosition[     12957,        378]
+CellTagsIndexPosition[     12914,        375]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell["\<\
-Comparison the coefficient of Generalized Trigonometric curves \
-\>", "Title",
+Cell["Coefficient Comparison Generalized Trigonometric curves ", "Title",
  CellChangeTimes->{{3.799464779891411*^9, 3.799464855695509*^9}, 
-   3.799464942390563*^9},ExpressionUUID->"0d6a69bf-c563-495f-bc39-\
+   3.799464942390563*^9, {3.79954031775356*^9, 
+   3.799540327460115*^9}},ExpressionUUID->"0d6a69bf-c563-495f-bc39-\
 d6e218996cfd"],
 
 Cell["Pascal", "Subtitle",
@@ -379,27 +378,25 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 237, 5, 98, "Title",ExpressionUUID->"0d6a69bf-c563-495f-bc39-d6e218996cfd"],
-Cell[820, 29, 192, 3, 69, "Subtitle",ExpressionUUID->"8752f264-a684-4e37-a6b9-4dd11374d39a"],
+Cell[580, 22, 271, 4, 98, "Title",ExpressionUUID->"0d6a69bf-c563-495f-bc39-d6e218996cfd"],
+Cell[854, 28, 192, 3, 69, "Subtitle",ExpressionUUID->"8752f264-a684-4e37-a6b9-4dd11374d39a"],
 Cell[CellGroupData[{
-Cell[1037, 36, 499, 13, 30, "Input",ExpressionUUID->"38535e2a-879f-4f0c-8802-602c42bf586f"],
-Cell[1539, 51, 1876, 54, 215, "Output",ExpressionUUID->"01c59db2-792d-467a-bd6d-0abd06a6f781"]
+Cell[1071, 35, 499, 13, 30, "Input",ExpressionUUID->"38535e2a-879f-4f0c-8802-602c42bf586f"],
+Cell[1573, 50, 1876, 54, 215, "Output",ExpressionUUID->"01c59db2-792d-467a-bd6d-0abd06a6f781"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[3452, 110, 699, 20, 30, "Input",ExpressionUUID->"a970943f-fccd-42fb-92c7-157d56306712"],
-Cell[4154, 132, 834, 22, 127, "Output",ExpressionUUID->"e646e99a-57cd-4b21-88f1-de5f168d14c7"]
+Cell[3486, 109, 699, 20, 30, "Input",ExpressionUUID->"a970943f-fccd-42fb-92c7-157d56306712"],
+Cell[4188, 131, 834, 22, 127, "Output",ExpressionUUID->"e646e99a-57cd-4b21-88f1-de5f168d14c7"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[5025, 159, 277, 4, 69, "Subtitle",ExpressionUUID->"c3cecbca-fd31-423b-934e-2fa834e25a40"],
+Cell[5059, 158, 277, 4, 69, "Subtitle",ExpressionUUID->"c3cecbca-fd31-423b-934e-2fa834e25a40"],
 Cell[CellGroupData[{
-Cell[5327, 167, 2918, 77, 283, "Input",ExpressionUUID->"fa81da88-3c9f-49b2-809b-163d3cbe6bb8"],
-Cell[8248, 246, 4242, 112, 222, "Output",ExpressionUUID->"6374d50b-29ac-476b-a858-ec1b8a3b5e26"]
+Cell[5361, 166, 2918, 77, 283, "Input",ExpressionUUID->"fa81da88-3c9f-49b2-809b-163d3cbe6bb8"],
+Cell[8282, 245, 4242, 112, 199, "Output",ExpressionUUID->"6374d50b-29ac-476b-a858-ec1b8a3b5e26"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
