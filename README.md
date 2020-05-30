@@ -1,5 +1,7 @@
 # Comparison of Pascal and Miura Triangle
 ---
+[![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/MWtPmeap)
+
 This is a one-pager on coefficients of pascal and miura triangle, the files are
 
 - MainCoefTriangle.tex: is the main file calling both triangles
